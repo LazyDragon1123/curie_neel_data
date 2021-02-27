@@ -1,0 +1,2 @@
+,name,dum,type,temperature,flag,ref_num,parsed_form,chem_flags,C_flags,N_flags,O_flags,S_flags,V_flags,Cr_flags,Mn_flags,Fe_flags,Co_flags,Ni_flags,Cu_flags,As_flags,Se_flags,La_flags,Ce_flags,Pr_flags,Nd_flags,Pm_flags,Sm_flags,Eu_flags,Gd_flags,Tb_flags,Dy_flags,Ho_flags,Er_flags,Tm_flags,Yb_flags,Lu_flags,Hf_flags,Ta_flags,mp_flags
+1945,Pm,1945,Curie,275.6,False,20,{'Pm': 1.0},True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True
