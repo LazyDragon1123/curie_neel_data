@@ -24,5 +24,5 @@ loop_
  _atom_site_fract_y
  _atom_site_fract_z
  _atom_site_occupancy
-  Ce  Ce0  1  0.00000000  0.66666667  0.33333333  1.0
+  Ce  Ce0  1  1.00000000  0.66666667  0.33333333  1.0
   Cu  Cu1  1  0.50000000  0.33333333  0.66666667  1.0

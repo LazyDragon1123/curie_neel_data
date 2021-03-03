@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Nb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22149595
+_cell_length_b   5.67802006
+_cell_length_c   56.39220791
+_cell_angle_alpha   92.10417100
+_cell_angle_beta   90.04465985
+_cell_angle_gamma   62.77732398
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb
+_chemical_formula_sum   Nb26
+_cell_volume   1485.47115531
+_cell_formula_units_Z   26
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.99810503  0.03063364  0.00402422  1.0
+  Nb  Nb1  1  0.61722248  0.79578742  0.08109381  1.0
+  Nb  Nb2  1  0.28738814  0.37349253  0.04048291  1.0
+  Nb  Nb3  1  0.23258864  0.56343818  0.15861141  1.0
+  Nb  Nb4  1  0.89979626  0.16724616  0.12039288  1.0
+  Nb  Nb5  1  0.82378678  0.35640697  0.23224426  1.0
+  Nb  Nb6  1  0.50988024  0.95680444  0.19514994  1.0
+  Nb  Nb7  1  0.43196631  0.13342701  0.30918466  1.0
+  Nb  Nb8  1  0.14876923  0.71972034  0.26946172  1.0
+  Nb  Nb9  1  0.05135026  0.89399781  0.38633885  1.0
+  Nb  Nb10  1  0.75220351  0.48226024  0.34748017  1.0
+  Nb  Nb11  1  0.65868201  0.64224818  0.45969848  1.0
+  Nb  Nb12  1  0.36510524  0.26841284  0.42265503  1.0
+  Nb  Nb13  1  0.28415212  0.39673575  0.53404272  1.0
+  Nb  Nb14  1  0.00951610  0.00929445  0.49603021  1.0
+  Nb  Nb15  1  0.89930722  0.15999683  0.61211609  1.0
+  Nb  Nb16  1  0.63146815  0.78001109  0.57358446  1.0
+  Nb  Nb17  1  0.50900740  0.95815495  0.69195814  1.0
+  Nb  Nb18  1  0.25242736  0.52704938  0.65138460  1.0
+  Nb  Nb19  1  0.13645182  0.72505220  0.77007894  1.0
+  Nb  Nb20  1  0.85040083  0.30850673  0.73011678  1.0
+  Nb  Nb21  1  0.75441761  0.49041376  0.84705938  1.0
+  Nb  Nb22  1  0.46131878  0.07717180  0.80763127  1.0
+  Nb  Nb23  1  0.37734840  0.26264400  0.92468603  1.0
+  Nb  Nb24  1  0.07701906  0.84404454  0.88477491  1.0
+  Nb  Nb25  1  0.68461325  0.61262962  0.96336267  1.0

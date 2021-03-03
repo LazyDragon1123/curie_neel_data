@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_TlNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32758800
+_cell_length_b   5.45750100
+_cell_length_c   7.69178862
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.03718518
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlNi
+_chemical_formula_sum   'Tl4 Ni4'
+_cell_volume   223.64114409
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.48391400  0.55040900  0.24748600  1.0
+  Tl  Tl1  1  0.98391400  0.94959100  0.74748600  1.0
+  Tl  Tl2  1  0.51608600  0.44959100  0.75251400  1.0
+  Tl  Tl3  1  0.01608600  0.05040900  0.25251400  1.0
+  Ni  Ni4  1  0.50000000  0.00000000  0.00000000  1.0
+  Ni  Ni5  1  0.50000000  0.00000000  0.50000000  1.0
+  Ni  Ni6  1  0.00000000  0.50000000  0.50000000  1.0
+  Ni  Ni7  1  1.00000000  0.50000000  0.00000000  1.0

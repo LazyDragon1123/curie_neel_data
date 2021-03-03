@@ -24,4 +24,4 @@ loop_
  _atom_site_fract_y
  _atom_site_fract_z
  _atom_site_occupancy
-  Pb  Pb0  1  0.00000000  0.05497800  0.94502200  1.0
+  Pb  Pb0  1  1.00000000  0.05497800  0.94502200  1.0
